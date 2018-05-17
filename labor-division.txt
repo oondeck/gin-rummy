@@ -1,0 +1,17 @@
+CS230 PROJECT SPRING 2016 LABOR DIVISION
+TEAM MEMBERS: OLIVIA ONDECK, NGINA KARIUKI, AND RENEE HUANG 
+
+OLIVIA ONDECK
+-worked on Card.java, Deck.java, GinRummyInterface.java and Player.java.
+Wrote initial version of GinRummy.java (game file).
+
+RENEE HUANG
+-wrote/designed Game.java (Gin Rummy game GUI panel) and GinRummyDemo.java (GUI for Gin Rummy).
+-edited GinRummy.java for compatibility with game GUI 
+
+NGINA KARIUKI
+-wrote AboutPanel.java and worked on general GUI design
+-edited GinRummy.java for compatibility with game GUI
+-debugged all classes 
+
+All team members used GinRummyDriver.java for testing aspects of the game during development. 
